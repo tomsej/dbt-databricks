@@ -1,3 +1,4 @@
+-- Databricks notebook source
 {{ config(
     location_root='/mnt/data_lake/marts',
     file_format='delta'      
